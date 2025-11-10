@@ -1,0 +1,1 @@
+This code wouldn't let me use it because of this error: PermissionError: [Errno 13] Permission denied: 'images'. Anyone knows how I could possibly fix it? And the dog.png and cat.png are in the "images" folder.
